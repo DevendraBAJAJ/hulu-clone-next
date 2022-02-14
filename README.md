@@ -34,7 +34,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## Demo Links
-hulu-clone-next-devendrabajaj.vercel.app
+https://hulu-clone-next-devendrabajaj.vercel.app
 <!-- hulu-clone-next-git-master-devendrabajaj.vercel.app
 hulu-clone-next-nu.vercel.app -->
 
